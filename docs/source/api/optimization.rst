@@ -1,5 +1,6 @@
 Optimization
 ============
 
+.. note::
+    This page is under construction.
 
-.. autofunction:: lumache.get_random_ingredients

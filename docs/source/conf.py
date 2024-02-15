@@ -17,7 +17,13 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx_needs',
 ]
+
+# make everyone provide an ID for their requirements
+needs_id_required = True
+# the ID must match this regex
+needs_id_regex = "^[A-Z0-9_]{5,}"
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),

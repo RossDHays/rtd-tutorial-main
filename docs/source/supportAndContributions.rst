@@ -1,7 +1,7 @@
 .. _supportAndContributions:
 
 Support & Contributions
-=======
+=======================
 
 
 Support
