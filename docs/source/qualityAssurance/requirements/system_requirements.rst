@@ -52,3 +52,10 @@ Maintainability
 
 Information Management
 ----------------------
+
+.. req:: Generate Matrices from CSV
+    :id: RE001
+    :links: TEST001
+
+    ORCA shall be able to generate matrices from comma-separated-value (CSV) files.
+

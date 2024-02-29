@@ -18,6 +18,14 @@ def generate_matrices_pkl_from_csv():
     The A, B, C matrices are found and stored in a dictionary that can be used by
     LTIStateSpaceMPCPyomoOptimization.
 
+    .. test:: TEST Make Matrices from CSV
+        :id: TEST001
+        :tests: RE001
+        :links: RE001
+
+        This test should be documented.
+        
+
     """
 
     file_path = os.path.join(os.path.dirname(__file__), "storage_data.csv")

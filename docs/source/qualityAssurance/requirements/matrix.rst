@@ -11,4 +11,11 @@ Requirements Traceability Matrix
     :types: req 
 
 
+.. needtable:: Test Table
+    :style: table
+    :types: test
+
+    
+
+
     
