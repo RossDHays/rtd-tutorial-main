@@ -1,7 +1,7 @@
 import unittest
 import os
-import yaml
-from yaml import Loader
+import PyYAML
+from PyYAML import Loader
 import pandas as pd
 from ORCA.Optimization.LTIStateSpaceMPCPyomoOptimization import (
     LTIStateSpaceMPCPyomoOptimization as LS,
@@ -13,8 +13,10 @@ from .data.SamplePKLFile import generate_matrices_pkl_from_csv
 class TestORCA(unittest.TestCase):
     """
     ORCA tests.
-
-    This tests instantiation and all other methods belonging to ORCA.
+    .. test:: Test ORCA
+        :id: TBD001
+        
+        This tests instantiation and all other methods belonging to ORCA.
 
     """
 

@@ -1,7 +1,7 @@
 import importlib
 import os
-import yaml
-from yaml import Loader
+import PyYAML
+from PyYAML import Loader
 import pandas as pd
 
 

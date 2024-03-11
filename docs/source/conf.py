@@ -13,7 +13,13 @@ version = '0.1.0'
 #These directories need to be added to the path for sphinx to find the docstrings therein
 # 
 sys.path.insert(0, os.path.abspath(os.path.join('..', '..')))
+sys.path.insert(0, os.path.abspath('../../ORCA/'))
+sys.path.insert(0, os.path.abspath('../../tests/'))
+sys.path.insert(0, os.path.abspath('../../tests/data/'))
+sys.path.insert(0, os.path.abspath('../../tests/Optimization/'))
+sys.path.insert(0, os.path.abspath('../../tests/RewardForecast'))
 
+#print(sys.path)
 # -- General configuration
 
 extensions = [

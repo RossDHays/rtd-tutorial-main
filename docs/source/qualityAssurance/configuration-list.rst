@@ -9,36 +9,32 @@ ORCA Configuration List
     ../../modules
 
 
-This page will contain a comprehensive list of files and items under configuration control for the ORCA plug-in.
+This page contains a comprehensive list of files and items under configuration control for the ORCA plug-in.
 
-This will include
-    * Source code
-    * Test case files
-    * Documentation managed with Sphinx
-    * Stationary Documentation
-    * Third-party library identification
+
 
 ORCA Source code
 ----------------
-A linked list of source files goes here...
+The ORCA source code is found in the 'ORCA/' directory of the software distribution.
 
 ORCA Test cases
 ---------------
-A linked list of test case files goes here...
+ORCA unit tests are found in the 'tests/' directory of the software distribution.
 
 Sphinx Documentation Files
 --------------------------
-The source text for the Sphinx documentation files may be found either by clicking the "View page source" link on the top right corner of the page, or in the '/docs/source' directory of the project distribution package.
+The source text for the Sphinx documentation files may be found either by clicking the "View page source" link on the top right corner of the page, or in the '/docs/source' directory of the project distribution package.  Rendered Sphinx documentation goes in the '/docs/html' directory when created, but this is not included in the distribution.
 
 Stationary Documentation
 ------------------------
-A listing of static documentation files (with links here applicable) goes here...
+All software documentation is currently written in Sphinx.  Additional quality assurance documents are cited on the :ref:`qualityAssurance` page.
 
 Referenced Libraries
 --------------------
 
 ..
     I can't get the literalinclude directive to work, so use a hard-coded list for now and solve this problem later.
+    
 
 The following third-party libraries are used by ORCA:
     * anyio

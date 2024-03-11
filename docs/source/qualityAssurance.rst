@@ -13,6 +13,7 @@ ORCA is developed under the quality assurance umbrella of `RAVEN <https://github
     :hidden:
 
     qualityAssurance/softwareDesign
+    qualityAssurance/coding-standards
     qualityAssurance/requirements
     qualityAssurance/requirements/matrix
     qualityAssurance/configuration-list
@@ -31,7 +32,9 @@ The following documents are utilized to document the quality assurance attribute
 * ORCA User Documentation
     * :ref:`installation`
     * :ref:`examples`
-    * :ref:`api`
+* ORCA Developer Documentation
+    * :ref:`modules`
+    * :ref:`coding-standards`
 * :ref:`deviations`
 
 Authoritative reference copies of these documents reside within the internal INL Electronic Document Management System, while working copies of the latest revision of some live here in the Sphinx documentation.  The process for developing this documentation is included in the deviations document :ref:`deviations`.  

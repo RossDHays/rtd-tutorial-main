@@ -7,7 +7,7 @@ Deviations to the RAVEN quality assurance plan will be described here.
 
 Configuration Management
 -------------------------
-The source code for ORCA as well as the documentation is maintained in a git repository.  Each source file contains a summary comment that describes its purpose, its limitations, and any requirements that it fulfills.  These comments are automatically gathered and reflected in the Sphinx documentation here: :ref:`configuration-list` .
+The source code for ORCA as well as the documentation is maintained in a git repository.  Each source file contains a summary comment that describes its purpose, its limitations, and any requirements that it fulfills.  These comments are automatically gathered and reflected in the Sphinx documentation here: :ref:`configuration-list`.
 
 Software Requirements
 -------------------------
