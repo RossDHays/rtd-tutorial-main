@@ -11,6 +11,7 @@ release = '0.1'
 version = '0.1.0'
 
 #These directories need to be added to the path for sphinx to find the docstrings therein
+# 
 sys.path.insert(0, os.path.abspath("../.."))
 sys.path.insert(0, os.path.abspath("../../tests"))
 sys.path.insert(0, os.path.abspath("../../tests/data"))

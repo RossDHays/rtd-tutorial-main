@@ -5,7 +5,8 @@ Software Requirements Specification
 
 
    Requirements Organization
-   -------------------------
+
+
    [Describe how the requirements are defined and organized]
 
 
