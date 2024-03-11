@@ -20,8 +20,8 @@ def generate_matrices_pkl_from_csv():
 
     .. test:: TEST Make Matrices from CSV
         :id: TEST001
-        :tests: RE001
-        :links: RE001
+        :tests: REQ001
+        :links: REQ001
 
         This test should be documented.
         

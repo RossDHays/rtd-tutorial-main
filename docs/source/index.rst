@@ -20,6 +20,16 @@ Contents
    license
    acknowledgements
 
+
+Automated summary goes here:
+
+.. autosummary::
+   :toctree: _autosummary
+   :recursive:
+
+   ORCA 
+
+   
 Indices and tables
 ^^^^^^^^^^^^^^^^^^
 

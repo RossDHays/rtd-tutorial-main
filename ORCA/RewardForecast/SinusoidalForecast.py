@@ -50,6 +50,7 @@ class SinusoidalForecast(RewardForecast):
 
     Methods
     -------
+    :no-index:
     gen_reward()
         generates n sinusoidal reward/price values to use in MPC time horizon optimization
 
