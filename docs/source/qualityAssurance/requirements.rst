@@ -10,10 +10,6 @@ Software Requirements Specification
    [Describe how the requirements are defined and organized]
 
 
-.. req:: ORCA Should read matrices from CSV
-   :ID: REQ001
-
-   ORCA should read a matrix from a CSV file.
    
 
 .. toctree::

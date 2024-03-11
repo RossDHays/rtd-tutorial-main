@@ -12,11 +12,11 @@ ORCA is developed under the quality assurance umbrella of `RAVEN <https://github
 .. toctree::
     :hidden:
 
-    softwareDesign
-    requirements
-    requirements/traceabilityMatrix
-    configuration-list
-    deviations
+    qualityAssurance/softwareDesign
+    qualityAssurance/requirements
+    qualityAssurance/requirements/matrix
+    qualityAssurance/configuration-list
+    qualityAssurance/deviations
 
 
 The following documents are utilized to document the quality assurance attributes of ORCA:

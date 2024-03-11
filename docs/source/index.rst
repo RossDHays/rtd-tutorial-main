@@ -14,8 +14,8 @@ Contents
    orca
    installation
    examples
-   api
-   qualityAssurance/qualityAssurance
+   modules
+   qualityAssurance
    supportAndContributions
    license
    acknowledgements

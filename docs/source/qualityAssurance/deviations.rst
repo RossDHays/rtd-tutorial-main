@@ -7,11 +7,11 @@ Deviations to the RAVEN quality assurance plan will be described here.
 
 Configuration Management
 -------------------------
-The source code for ORCA as well as the documentation is maintained in a git repository.  Each source file contains a summary comment that describes its purpose, its limitations, and any requirements that it fulfills.  These comments are automatically gathered and reflected in the Sphinx documentation here: :ref: `configuration-list`.
+The source code for ORCA as well as the documentation is maintained in a git repository.  Each source file contains a summary comment that describes its purpose, its limitations, and any requirements that it fulfills.  These comments are automatically gathered and reflected in the Sphinx documentation here: :ref:`configuration-list` .
 
-Software requirements
+Software Requirements
 -------------------------
-Software requirements unique to ORCA are listed here: :ref: `requirements`
+Software requirements unique to ORCA are listed here: :ref:`requirements`.
 These requirements are written and maintained using the Sphinx documentation system and are stored in the ORCA repository.  Copies are reviewed and archived as part of the release process.  Each requirement has linked to it (in the requirement traceability matrix) an artifact, either in the code or in the documentation, that demonstrates that the requirement has been met in the software as designed.  Further, these verification artifacts may point to test cases and test case results that provide futher validation that the requirement has been met in the published code.
 
 The Use of Sphinx
