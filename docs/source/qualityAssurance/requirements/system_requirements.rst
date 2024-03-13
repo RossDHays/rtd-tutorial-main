@@ -31,6 +31,16 @@ Functional Requirements
 Framework, I/O, Execution Control
 *********************************
 
+.. req:: Optimization
+    :id: OF001
+
+    The ORCA plug-in shall enable the use of custom instructions to manage the execution phases of the real-time optimization workflow.
+
+.. req:: Output
+    :id: OF002
+
+    The ORCA plug-in shall allow the creation of custom output formats for both simulation and experimental data.
+
 Usability Requirements
 ----------------------
 
