@@ -9,11 +9,37 @@ Minimum Requirements
 Minimum Requirements
 ********************
 
+.. req:: Computer
+    :id: OM001
+
+    Any portable operating system interface (POSIX) (or POSIX-like) system.
+
+.. req:: RAM
+    :id: OM002
+
+    2GB per core execution (depending on the type of analysis and data generated)
+
+.. req:: Language
+    :id: OM003
+
+    Python 3.9 or above
+
+
 Functional Requirements
 -----------------------
 
 Framework, I/O, Execution Control
 *********************************
+
+.. req:: Optimization
+    :id: OF001
+
+    The ORCA plug-in shall enable the use of custom instructions to manage the execution phases of the real-time optimization workflow.
+
+.. req:: Output
+    :id: OF002
+
+    The ORCA plug-in shall allow the creation of custom output formats for both simulation and experimental data.
 
 Usability Requirements
 ----------------------
