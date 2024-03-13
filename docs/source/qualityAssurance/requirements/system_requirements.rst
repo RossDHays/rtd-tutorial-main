@@ -9,6 +9,22 @@ Minimum Requirements
 Minimum Requirements
 ********************
 
+.. req:: Computer
+    :id: OM001
+
+    Any portable operating system interface (POSIX) (or POSIX-like) system.
+
+.. req:: RAM
+    :id: OM002
+
+    2GB per core execution (depending on the type of analysis and data generated)
+
+.. req:: Language
+    :id: OM003
+
+    Python 3.9 or above
+
+
 Functional Requirements
 -----------------------
 
