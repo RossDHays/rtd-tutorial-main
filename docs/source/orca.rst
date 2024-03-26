@@ -3,8 +3,8 @@
 Introduction
 ============
 
-**O**\ ptimization for **R**\ eal-time **C**\ apacity **A**\ llocation (ORCA) is
- a software platform for creating and running real-time control and optimization
+**O**\ ptimization for **R**\ eal-time **C**\ apacity **A**\ llocation (ORCA)
+is a software platform for creating and running real-time control and optimization
  workflows for Integrated Energy Systems (IES). The IES program aims to increase
  flexibility in nuclear energy generation to allow nuclear plants to thrive
  economically while supporting variable grid demand. A key mechanism for
